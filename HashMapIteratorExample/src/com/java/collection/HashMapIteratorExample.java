@@ -1,7 +1,6 @@
 package com.java.collection;
 
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -30,6 +29,8 @@ public class HashMapIteratorExample {
 	    
 	    hashmaNew.put("07/12/2017", values);
 	    hashmaNew.put("06/12/2017", valuesOne);
+	    
+	  
 	    
 	    
 	    System.out.println(">>>>>>>>>>>>>>>>>>>" +hashmaNew);
